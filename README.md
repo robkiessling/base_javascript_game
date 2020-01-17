@@ -1,3 +1,3 @@
-# readme
+# Base Javascript Game
 
-Enter a description
+Simple file structure to get your game up and running!
